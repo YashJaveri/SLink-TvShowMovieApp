@@ -4,6 +4,7 @@ Slink which contains almost all the shows and movies you can think of and more. 
 
 Project: https://gitlab.com/yjaveri99/slink-v3.0
 Username: YashJaveri
+Emial: yjaveri99@gmail.com
 
 ![SS1](/Screenshot_1547413113.png)
 ![SS2](/SS2.jpeg)
